@@ -1,5 +1,5 @@
 <div align="center">
-  !(https://i.ibb.co/DM9HBJB/120by120.png)
+  ![To the MOON!](https://i.ibb.co/DM9HBJB/120by120.png)
 <h3 align="center">Shitcoin</h3>
   <p align="center">
     project_description
