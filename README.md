@@ -1,4 +1,4 @@
-<div align="center">![Shitcoin512by512 2](https://user-images.githubusercontent.com/92617837/138572327-bcd1a4ba-d2a4-493b-a67c-72e6d3efbb34.png)
+<div align="center">!(https://i.ibb.co/DM9HBJB/120by120.png)
 <h3 align="center">Shitcoin</h3>
   <p align="center">
     project_description
