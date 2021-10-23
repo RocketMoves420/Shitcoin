@@ -2,7 +2,7 @@
 
 <p align="center">Currency Name: Shitcoin
 
-Ticker Symbol: $SHIT</p>
+<p align="center">Ticker Symbol: $SHIT</p>
 /******************************************************************************************************************************!
 
  _    Why does this coin exist?    _
