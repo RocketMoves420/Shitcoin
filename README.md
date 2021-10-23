@@ -1,5 +1,5 @@
 <p align="center">  <img src="https://user-images.githubusercontent.com/92617837/138571582-2ba1722c-346c-4c58-ac4a-79e334e9f9b8.png">
-<p align="center">Name: Shitcoin, Symbol: $SHIT
+<p align="center">Name: Shitcoin- $SHIT
 
 /******************************************************************************************************************************!
 
