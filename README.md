@@ -1,4 +1,8 @@
-/******************************************************************************************************************************
+![120by120](https://user-images.githubusercontent.com/92617837/138571582-2ba1722c-346c-4c58-ac4a-79e334e9f9b8.png)
+
+
+
+/******************************************************************************************************************************!
 
  _    Why does this coin exist?    _
 It's a fun way to get people into crypto, with the vision of one day helping those who are battling against colon cancer, prostate cancer, and those facing a shitty time in general in life.
