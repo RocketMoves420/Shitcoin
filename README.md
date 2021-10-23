@@ -1,4 +1,5 @@
-<div align="center">![To the MOON!](https://i.ibb.co/DM9HBJB/120by120.png)
+<div align="center"> ![image](https://user-images.githubusercontent.com/92617837/138572464-460ffc50-eba5-4052-ad17-d109c7497d29.png)
+
 <h3 align="center">Shitcoin</h3>
   <p align="center">
     /******************************************************************************************************************************!
