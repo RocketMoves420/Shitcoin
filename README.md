@@ -16,8 +16,8 @@ The success of this coin is heavily dependent on the fans to push it to new heig
  Supply Burn: 2% of every transaction is flushed away
     
 Social Links
-*     Website: https://shitcoin69.weebly.com
-*     Twitter: https://twitter.com/Shitcoin69
-*     Discord: https://discord.gg/zgfRMYEp27
-*     Telegram: https://t.me/ShitCoin69
+Website:*     https://shitcoin69.weebly.com
+Twitter:*     https://twitter.com/Shitcoin69
+Discord:*     https://discord.gg/zgfRMYEp27
+Telegram:*    https://t.me/ShitCoin69
 ******************************************************************************************************************************/
