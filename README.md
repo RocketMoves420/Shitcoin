@@ -1,5 +1,3 @@
- <div id="top"></div>
-<br />
 <div align="center">
 ![Shitcoin512by512 2](https://user-images.githubusercontent.com/92617837/138572316-9b3e48db-1af1-4e6a-ba9a-811baa9bf149.png)
 
