@@ -1,5 +1,5 @@
-<div align="center"> ![image](https://user-images.githubusercontent.com/92617837/138572464-460ffc50-eba5-4052-ad17-d109c7497d29.png)
-
+<div align="center"> 
+  ![Shitcoin512by512 2](https://user-images.githubusercontent.com/92617837/138572471-18de0b3d-2011-490e-8120-2ee09c9a7dc1.png)
 <h3 align="center">Shitcoin</h3>
   <p align="center">
     /******************************************************************************************************************************!
