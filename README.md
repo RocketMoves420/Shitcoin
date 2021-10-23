@@ -1,10 +1,9 @@
  <div id="top"></div>
 <br />
 <div align="center">
-  <a 0xA3b305471BF1CA5cB7cB9D8a9ca849f511A67d6b>
-  </a>
+![Shitcoin512by512 2](https://user-images.githubusercontent.com/92617837/138572316-9b3e48db-1af1-4e6a-ba9a-811baa9bf149.png)
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Shitcoin</h3>
 
   <p align="center">
     project_description
