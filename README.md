@@ -3,6 +3,7 @@
 <div align="center">
   <a href=![Shitcoin512by512 2](https://user-images.githubusercontent.com/92617837/138572237-0e19ada2-0b4d-45d0-873e-749fec528c0e.png)>
 
+   
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
