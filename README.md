@@ -34,7 +34,7 @@ You can obtain coins from Defi cryptocurrency exchanges such as Pancakeswap ahea
 
 
 
-/********************************************************!  
+/*********************************************************  
 Shitcoin is released under the terms of the MIT license.  
 Contract: 0xa3b305471bf1ca5cb7cb9d8a9ca849f511a67d6b  
 *********************************************************/
