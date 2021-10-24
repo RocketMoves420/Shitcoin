@@ -11,7 +11,7 @@ Website:     https://shitcoin69.weebly.com
 Twitter:     https://twitter.com/Shitcoin69  
 Discord:     https://discord.gg/zgfRMYEp27  
 Audit:       https://shitcoin69.weebly.com/uploads/1/3/9/4/139451554/audit.pdf  
-Contract:    https://bscscan.com/address/0xA3b305471BF1CA5cB7cB9D8a9ca849f511A67d6b  
+Contract:    https://bscscan.com/address/0xEB0c52B3602A3884d3A153fB603BDe2b292767e1#code 
 
 </div>
 
@@ -24,9 +24,9 @@ It's a fun way to get people into crypto, with the vision of one day helping tho
 
 The success of this coin is heavily dependent on the fans to push it to new heights, amd its tokenomics which makes Shᓰt rarer with every transaction.
 
-|  Supply  | Auto Liqudiity | Reflections/Burn |
+|  Supply  | Auto Liqudiity |    Flush (Burn)  |
 |  ------- |    ------      |      ------      | 
-|   8bil   |   8% per Tx    |     2% per Tx    | 
+|   8bil   |   6% per Tx    |     2% per Tx    | 
 
 ## How do I get coins? 😆 
 
