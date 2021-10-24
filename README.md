@@ -26,7 +26,7 @@ The success of this coin is heavily dependent on the fans to push it to new heig
 
 |  Supply  | Auto Liqudiity | Reflections/Burn |
 |  ------- |    ------      |      ------      | 
-|   8bil   |   8% per Tx    |        2%        | 
+|   8bil   |   8% per Tx    |     2% per Tx    | 
 
 ## How do I get coins? 😆 
 
