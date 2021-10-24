@@ -1,11 +1,9 @@
 /**
- *Submitted for verification at BscScan.com on 2021-10-21
+ *Submitted for verification at BscScan.com on 2021-10-24
 */
 
 /******************************************************************************************************************************
-  Libary: https://github.com/Dennis-DxSale/LiquidityGenerator/blob/main/Chains/BSC.txt
-  
-  
+    
     Official smart contract of Shitcoin.
 
     Tokenomics:
@@ -13,11 +11,12 @@
     Auto liquidity: 8% of every transaction is added to liquidity.
     Supply Burn: 2% of every transaction is flushed away
     
-    Social Links:
+    Links:
     Website: https://shitcoin69.weebly.com
     Twitter: https://twitter.com/Shitcoin69
     Discord: https://discord.gg/zgfRMYEp27
     Telegram: https://t.me/ShitCoin69
+    Audit: https://shitcoin69.weebly.com/uploads/1/3/9/4/139451554/audit.pdf
 
 ******************************************************************************************************************************/
 
