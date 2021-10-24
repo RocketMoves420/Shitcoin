@@ -22,7 +22,7 @@ It's a fun way to get people into crypto, with the vision of one day helping tho
 
 ### How does this coin grow? 🧐
 
-The success of this coin is heavily dependent on the fans to push it to new heights, amd its tokenomics which makes it a deflationary asset.
+The success of this coin is heavily dependent on the fans to push it to new heights, amd its tokenomics which makes Shᓰt rarer with every transaction.
 
 |  Supply  | Auto Liqudiity | Reflections/Burn |
 |  ------- |    ------      |      ------      | 
