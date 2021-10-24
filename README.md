@@ -18,7 +18,7 @@ Contract:    https://bscscan.com/address/0xA3b305471BF1CA5cB7cB9D8a9ca849f511A67
 
 ## Why does this coin exist? 😯
 
-It's a fun way to get people into crypto, with the vision of one day helping those who are battling against colon cancer, prostate cancer, and those facing a shitty time in general in life.
+It's a fun way to get people into crypto, with the vision of one day helping those who are battling against colon cancer, prostate cancer, and those just  facing a shitty time in general in life.
 
 ### How does this coin grow? 🧐
 
