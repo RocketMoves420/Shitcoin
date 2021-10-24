@@ -10,7 +10,7 @@ Social Links
 Website:     https://shitcoin69.weebly.com  
 Twitter:     https://twitter.com/Shitcoin69  
 Discord:     https://discord.gg/zgfRMYEp27  
-Audit:       https://shitcoin69.weebly.com/uploads/1/3/9/4/139451554/audit.pdf  
+Audit:       shitcoin69.weebly.com/uploads/1/3/9/4/139451554/audit.pdf
 Contract:    https://bscscan.com/address/0xA3b305471BF1CA5cB7cB9D8a9ca849f511A67d6b  
 
 </div>
