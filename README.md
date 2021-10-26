@@ -6,7 +6,7 @@ Shᓰtcoin
 
 <div align="center">
     
-Social Links  
+Links  
 Website:     https://shitcoin69.weebly.com  
 Twitter:     https://twitter.com/Shitcoin69  
 Discord:     https://discord.gg/zgfRMYEp27  
