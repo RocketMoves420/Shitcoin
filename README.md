@@ -10,9 +10,9 @@ Social Links
 Website:     https://shitcoin69.weebly.com  
 Twitter:     https://twitter.com/Shitcoin69  
 Discord:     https://discord.gg/zgfRMYEp27  
-Audit:       https://shitcoin69.weebly.com/uploads/1/3/9/4/139451554/audit.pdf
+Audit:       https://shitcoin69.weebly.com/uploads/1/3/9/4/139451554/audit.pdf  
 Contract:    https://bscscan.com/address/0xEB0c52B3602A3884d3A153fB603BDe2b292767e1#code  
-Trade:       www.flooz.trade/wallet/0xeb0c52b3602a3884d3a153fb603bde2b292767e1/?refId=G8lOJN&fromToken=bnb
+Trade:       www.flooz.trade/wallet/0xeb0c52b3602a3884d3a153fb603bde2b292767e1/?refId=G8lOJN&fromToken=bnb  
 
 </div>
 
