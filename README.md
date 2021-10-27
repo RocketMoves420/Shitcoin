@@ -27,7 +27,11 @@ The success of this coin is heavily dependent on the fans to push it to new heig
 
 |  Supply  | Auto Liqudiity |    Flush (Burn)  |
 |  ------- |    ------      |      ------      | 
-|   8bil   |   6% per Tx    |     2% per Tx    | 
+|   8bil   |   6% per Tx    |     1% per Tx    |  
+
+And a 1% Auto contribution to the “Make Shit Better” foundation  
+for investors and families of investors who are going through a shitty time.  
+
 
 ## How do I get coins? 😆 
 
