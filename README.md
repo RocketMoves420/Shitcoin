@@ -25,12 +25,12 @@ It's a fun way to get people into crypto, with the vision of one day helping tho
 
 The success of this coin is heavily dependent on the fans to push it to new heights, amd its tokenomics which makes Shᓰt rarer with every transaction.
 
-|  Supply  | Auto Liqudiity |  Buy Back & Flush |
+|  Supply  |   Liqudiity    |  Buy Back & Flush |
 |  ------- |    ------      |       ------      | 
 |   8bil   |   6% per Tx    |      2% per Tx    |  
 
-And a 1% Auto contribution to the “Make Shit Better” foundation  
-for investors and families of investors who are going through a shitty time.  
+The taxes build up tokens in the contract's address: 0xe321c8f2db87af4989cb0138e27d071ff7f7ce10 
+Whenever it hits a certain number built up, it sells half for BNB, pairs it with the tokens and adds more liq.
 
 
 ## How do I get coins? 😆 
