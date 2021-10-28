@@ -25,9 +25,9 @@ It's a fun way to get people into crypto, with the vision of one day helping tho
 
 The success of this coin is heavily dependent on the fans to push it to new heights, amd its tokenomics which makes Shᓰt rarer with every transaction.
 
-|  Supply  | Auto Liqudiity |    Flush (Burn)  |
-|  ------- |    ------      |      ------      | 
-|   8bil   |   6% per Tx    |     1% per Tx    |  
+|  Supply  | Auto Liqudiity |  Buy Back & Flush |
+|  ------- |    ------      |       ------      | 
+|   8bil   |   6% per Tx    |      2% per Tx    |  
 
 And a 1% Auto contribution to the “Make Shit Better” foundation  
 for investors and families of investors who are going through a shitty time.  
