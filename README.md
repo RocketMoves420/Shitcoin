@@ -7,13 +7,13 @@ Shᓰtcoin
 <div align="center">
     
 Links  
-Website:     https://shitcoin69.com  
-Twitter:     https://twitter.com/Shitcoin69    
-Discord:     https://discord.gg/zgfRMYEp27  
-Medium:      https://shitcoin69.medium.com/?p=8a4ec5a83cb8  
-Audit:       https://shitcoin69.weebly.com/uploads/1/3/9/4/139451554/audit.pdf  
-Contract:    https://bscscan.com/address/0xLaunching00000000000000000000000  
-Trade:       www.flooz.trade  
+Website: https://shitcoin69.com  
+Twitter: https://twitter.com/Shitcoin69    
+Discord: https://discord.gg/zgfRMYEp27  
+Medium: https://shitcoin69.medium.com/?p=8a4ec5a83cb8  
+Audit: https://shitcoin69.weebly.com/uploads/1/3/9/4/139451554/audit.pdf  
+Contract: https://bscscan.com/address/0xLaunching00000000000000000000000  
+Trade: www.flooz.trade  
 
 </div>
 
