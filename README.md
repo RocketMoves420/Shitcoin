@@ -34,7 +34,7 @@ There are NO team tokens and NO ridiculously high taxes! Every single penny of t
 
 ## How do I get coins? 😆 
 
-You can obtain coins from Defi cryptocurrency exchanges such as Pancakeswap ahead of our Safemoon Exchange
+You can obtain coins from Defi cryptocurrency exchanges such as Pancakeswap ahead of our Safemoon Exchange listing.
 
 
 <div align="center">  
