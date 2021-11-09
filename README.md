@@ -13,7 +13,7 @@ Twitter: https://twitter.com/Shitcoin69
 Discord: https://discord.gg/zgfRMYEp27  
 Medium: https://shitcoin69.medium.com/?p=8a4ec5a83cb8    
 Contract: https://bscscan.com/address/0xLaunching00000000000000000000000  
-Trade: www.flooz.trade  
+Trade: https://pancakeswap.finance/swap    
 
 </div>
 
