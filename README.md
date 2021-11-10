@@ -25,9 +25,9 @@ It’s a fun way to get people into crypto, with the vision of one day helping t
 ### How does this coin grow? 🧐
 
 The success of this coin is heavily dependent on degenerates to push it to new heights, and its tokenomics which makes it a deflationary asset.  
-|  Supply  |   Liqudiity    |      Buy Back     |  Development   |
-|  ------- |    ------      |       ------      |    ------      |
-|   21m    |   2% per Tx    |      2% per Tx    |   2% per Tx    |  
+|  Supply  |   Liqudiity    |      Buy Back     |   Frictionless Staking       |   Deflationary Flush |  Development |
+|  ------- |    ------      |       ------      |          ------              |     ------           |    ------    |  
+|   21m    |   2% per Tx    |      2% per Tx    |        <2% per Tx            |    <2% per Tx        |   2% per Tx  |   
 
 There are NO team tokens and NO ridiculously high taxes! Every single penny of tax collected gets pumped straight back into the project.  
 Shitcoiners who hold 69 shitcoins or more, receives a NFT (Non-Fungible Turd). 🎉  
