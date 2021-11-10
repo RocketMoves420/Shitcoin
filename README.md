@@ -31,9 +31,9 @@ The success of this coin is heavily dependent on degenerates to push it to new h
 |  ------- |    ------      |       ------      |          ------              |     ------           |    ------    |  
 |   21m    |   2% per Tx    |      2% per Tx    |        <2% per Tx            |    <2% per Tx        |   2% per Tx  |     
 
-Slippage 8-9%  
-There are NO team tokens and NO ridiculously high taxes! Every single penny of tax collected gets pumped straight back into the project.  
-+Shitcoiners who hold 69 shitcoins or more, receives a NFT (Non-Fungible Turd). 🎉
++ Slippage 8-9%  
++ There are NO team tokens and NO ridiculously high taxes! Every single penny of tax collected gets pumped straight back into the project.  
++ +Shitcoiners who hold 69 shitcoins or more, receives a NFT (Non-Fungible Turd). 🎉
 
 
 
