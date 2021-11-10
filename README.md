@@ -5,7 +5,7 @@ Shᓰtcoin
 </h1>
 
 <div align="center">
--------
+
 Links  
 Website: https://shitcoin69.com  
 Audit: https://docdro.id/AU4tV6D  
