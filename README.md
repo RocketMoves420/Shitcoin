@@ -8,13 +8,13 @@ Shᓰtcoin
 
 Links  
 Website: https://shitcoin69.com  
-Audit: https://docdro.id/AU4tV6D  
 Twitter: https://twitter.com/Shitcoin69    
 Reddit: https://www.reddit.com/r/shitcoin69/  
 Discord: https://discord.gg/zgfRMYEp27  
 Medium: https://shitcoin69.medium.com/?p=8a4ec5a83cb8    
 Contract: https://bscscan.com/address/0xLaunching00000000000000000000000  
 Trade: https://pancakeswap.finance/swap    
+Audit: https://docdro.id/AU4tV6D  
 
 </div>
 
