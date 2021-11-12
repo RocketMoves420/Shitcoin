@@ -1,7 +1,7 @@
 <h1 align="center">
 Shᓰtcoin
 <br/><br/>
-<img src="https://i.ibb.co/wBNvXBM/Shit-coinn-logo.png" alt="Shitcoin" width="300"/>
+<img src="https://i.ibb.co/S3zBHmJ/Shit-coinn-logo-amazing.png" alt="Shitcoin" width="300"/>
 </h1>
 
 <div align="center">
