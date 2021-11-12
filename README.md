@@ -31,11 +31,12 @@ The success of this coin is heavily dependent on degenerates to push it to new h
 |  ------- |    ------      |       ------      |          ------              |     ------           |    ------    |  
 |   21m    |   2% per Tx    |      2% per Tx    |        <2% per Tx            |    <2% per Tx        |   2% per Tx  |     
 
-+ Slippage 8-9%  
-+ There are NO team tokens and NO ridiculously high taxes! Every single penny of tax collected gets pumped straight back into the project.  
-• +Shitcoiners who hold 69 shitcoins or more, receives a Rare NFT (Non-Fungible Turd). 🎉  
-• +Diamond hand Shitcoiners who hold 69 shitcoins or more for 690 days, receives a limited edition Ultra Rare NFT (Non-Fungible Turd). 🎉  
-• + 2 Degenerous Shitcoiners who kick start Shitcoin by donating 0.5 BNB each receives a limited edition Ultra Rare Holographic NFT (Non-Fungible Turd). 🎉  
+• Slippage 8-9%  
+• There are NO team tokens and NO ridiculously high taxes! Every single penny of tax collected gets pumped straight back into the project.  
+• Shitcoiners who hold 69 shitcoins or more, receives a Rare NFT (Non-Fungible Turd). 
+• Diamond hand Shitcoiners who hold 69 shitcoins or more for 690 days, receives a limited edition Ultra Rare NFT (Non-Fungible Turd).  
+• 2 Degenerous Shitcoiners who kick start Shitcoin by donating 0.5 BNB each receives a limited edition Ultra Rare Holographic NFT (Non-Fungible Turd).  
+<h1 align="center">🎉 <div align="center">  
 
 
 
