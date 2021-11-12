@@ -29,13 +29,12 @@ It’s a fun way to get people into crypto, with the vision of one day helping t
 The success of this coin is heavily dependent on degenerates to push it to new heights, and its tokenomics which makes it a deflationary asset.  
 |  Supply  |   Liqudiity    |      Buy Back     |   Frictionless Staking       |   Deflationary Flush |  Development |
 |  ------- |    ------      |       ------      |          ------              |     ------           |    ------    |  
-|   21m    |   2% per Tx    |      2% per Tx    |        <2% per Tx            |    <2% per Tx        |   2% per Tx  |     
-
-There are NO team tokens and NO ridiculously high taxes! Every single penny of tax collected gets pumped straight back into the project.  
+|   21m    |   2% per Tx    |      2% per Tx    |        <2% per Tx            |    <2% per Tx        |   2% per Tx  |    
 • Slippage 8-9%  
 💩 Shitcoiners who hold 69 shitcoins or more, receives a Rare NFT (Non-Fungible Turd).  
 💎 Diamond hand Shitcoiners who hold 69 shitcoins or more for 690 days, receives a limited edition Ultra Rare NFT (Non-Fungible Turd).  
 🙊 2 Degenerous Shitcoiners who kick start Shitcoin by donating 0.5 BNB each receives a limited edition Ultra Rare Holographic NFT (Non-Fungible Turd).  
+There are NO team tokens and NO ridiculously high taxes! Every single penny of tax collected gets pumped straight back into the project.  
 
 
 
