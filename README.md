@@ -31,7 +31,7 @@ The success of this coin is heavily dependent on degenerates to push it to new h
 |  ------- |    ------      |       ------      |          ------              |     ------           |    ------    |  
 |   21m    |   2% per Tx    |      2% per Tx    |        <2% per Tx            |    <2% per Tx        |   2% per Tx  |    
 
-٭ Slippage 8-9%  
+Slippage 8-9%  
 
 💩 Shitcoiners who hold 69 shitcoins or more, receives a Rare NFT (Non-Fungible Turd).  
 💎 Diamond hand Shitcoiners who hold 69 shitcoins or more for 690 days, receives a limited edition Ultra Rare NFT (Non-Fungible Turd).  
