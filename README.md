@@ -33,9 +33,9 @@ The success of this coin is heavily dependent on degenerates to push it to new h
 
 Slippage 8-9%  
 
-💩 Shitcoiners who hold 69 shitcoins or more, receives a Rare NFT (Non-Fungible Turd).  
-💎 Diamond hand Shitcoiners who hold 69 shitcoins or more for 690 days, receives a limited edition Ultra Rare NFT (Non-Fungible Turd).  
-🙊 2 Degenerous Shitcoiners who kick start Shitcoin by donating 0.5 BNB each receives a limited edition Ultra Rare Holographic NFT (Non-Fungible Turd).  
+💩 [Shitcoiners who hold 69 shitcoins or more, receives a Rare Non-Fungible Turd](https://i.ibb.co/rFgRVWB/Thanks-for-buying-Shitcoin.png)    
+💎 [Diamond hand Shitcoiners who hold 69 shitcoins or more for 690 days, receives a limited edition Ultra Rare Non-Fungible Turd](https://i.ibb.co/fksdXpm/Degenerosity-NFT.png)  
+🙊 [2 Degenerous Shitcoiners who kick start Shitcoin by donating 0.5 BNB each receives a limited edition Ultra Rare Holographic Non-Fungible Turd](https://i.ibb.co/kHRvjm3/Diamond-hand-2.png)  
 
 There are NO team tokens and NO ridiculously high taxes! Every single penny of tax collected gets pumped straight back into the project.  
 
