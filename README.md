@@ -9,6 +9,7 @@ Shᓰtcoin
 Links  
 Website: https://shitcoin69.com  
 Audit: https://docdro.id/AU4tV6D  
+Telegram: https://t.me/Shitcoin69  
 Discord: https://discord.gg/zgfRMYEp27  
 Twitter: https://twitter.com/Shitcoin69    
 Reddit: https://www.reddit.com/r/shitcoin69/  
