@@ -23,7 +23,7 @@ Trade: https://pancakeswap.finance/swap
 -------
 ## Why does this coin exist? 😯
 
-It’s a fun way to get people into crypto, with the vision of one day helping those who are battling against a shitty time in in life with incredible gains.  
+It’s a fun way to get people into crypto, with the vision of one day helping those who are battling against a shitty time in life with incredible gains.  
 
 -------
 ### How does this coin grow? 🧐
