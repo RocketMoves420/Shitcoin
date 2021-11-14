@@ -3,7 +3,7 @@ Shᓰtcoin
 <br/><br/>
 <img src="https://i.ibb.co/S3zBHmJ/Shit-coinn-logo-amazing.png" alt="Shitcoin" width="300"/>
 </h1>
-
+<h1>Shitcoin is an innovative new kind of money.</h1>
 <div align="center">
 
 Links  
