@@ -8,8 +8,7 @@ one day helping those who are battling against a shitty time in in life with inc
 * Unlimited Available : Just be a shitcoiner with 69 shitcoins: https://i.ibb.co/rFgRVWB/Thanks-for-buying-Shitcoin.png
 * Unlimited Available: Diamond hand 69,000 or more shitcoins for 690 days: https://i.ibb.co/fksdXpm/Degenerosity-NFT.png
 * 2 Available: Donate 0.5 BNB towards the startup cost: https://i.ibb.co/kHRvjm3/Diamond-hand-2.png
-* Discord: https://discord.gg/zgfRMYEp27
-* Reddit: https://www.reddit.com/r/shitcoin69/
+
 
 Please read through our website to find out more, or join the Discord/Telegram to ask any questions you may have.
 * Website: https://shitcoin69.com/
@@ -22,7 +21,6 @@ Shit-toshi
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.2;
-
 
 /**
  * @title ERC721 token receiver interface
@@ -1525,35 +1523,46 @@ interface IBEP20 {
     
   function allowance(address _owner, address spender) external view returns (uint256);
   
-  function approve(address spender, uint256 amount) external returns (bool);
-  
+  function approve(address spender, uint256 amount) external returns (bool); 
+
+  function Holdingtime(address _owner) external returns (uint256);
 }
 
 /**
  * The ShitNFT contract does this and that...
  */
 contract ShitNFT is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
-    using Counters for Counters.Counter;
-    Counters.Counter private _tokenIdCounter;
     using SafeMath for uint256;
-
-    address _shitTokenAddress = 0x8f425E05853ca80B186f43364d2120C354465fa0;
-    IBEP20 private shitToken;
+    using Counters for Counters.Counter;
+    
+    Counters.Counter private _tokenIdCounter;
     Counters.Counter private _tokenIds;
-    uint256 minRequiredToken = 69;
-    string nftHash;
-    mapping (address => bool) mintedUsers;
+
+    IBEP20 public shitToken;
+
+    string nftHash = "QmPJZ4E8WQHj6EUinbjpkgY77RLSwgxu3A5kv8oi5uRcty";
+    string specialNftHash = "QmToX7RWiaromACinZx59WvkjjBkAVe6yJMcg5XAgmG3Qv";
+    string HODLerNftHash = "QmazNtsB7QLEHyrwp6TSahRDhEDZ1bC7cvwkAWEY4avP82";
+
+    uint256 minRequiredToken = 69 * 1e8;
+    uint256 minRequiredTokenHodl = 69000 * 1e8;
+    uint256 minHODLTimeperiod = 690 days;
+
+    mapping (address => bool) public mintedUsers;
+    mapping (address => bool) public mintedSpecialUsers;
+    mapping (address => bool) public HODLMintedUsers;
+    mapping (address => bool) public specialNFTMinterAddresses;
 
     constructor() ERC721("Non-Fungible Turd", "NFT") {
-      shitToken = IBEP20(_shitTokenAddress);
-      minRequiredToken = minRequiredToken.mul(10 ** shitToken.decimals());
-      nftHash = "QmPJZ4E8WQHj6EUinbjpkgY77RLSwgxu3A5kv8oi5uRcty";
+        specialNFTMinterAddresses[address(0xF15c0CA2737EFF59fE350a8E682D8099e01aE34C)] = true;
+        specialNFTMinterAddresses[address(0x62b8fC4ca6768626d54583539624e24D64594ed6)] = true;
     }
 
     function _baseURI() internal pure override returns (string memory) {
         return "https://ipfs.infura.io:5001/api/v0/cat?arg=";
     }
 
+    // Mint General NFT
     function claim() public returns (uint256) {
         require(!mintedUsers[msg.sender], "You already minted NFT.");
         require(shitToken.balanceOf(msg.sender) > minRequiredToken, "You dont have enough tokens.");
@@ -1562,25 +1571,77 @@ contract ShitNFT is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
         uint256 newItemId = _tokenIdCounter.current();
         _safeMint(msg.sender, newItemId);
         _setTokenURI(newItemId, nftHash);
+
         mintedUsers[msg.sender] = true;
         return newItemId;
+    }
+
+    // Mint Special NFT for founders.
+    function claimSpecial() public returns (uint256) {
+        require(!mintedSpecialUsers[msg.sender], "You already minted NFT.");
+        require(specialNFTMinterAddresses[_msgSender()], "You dont have access to mint this NFT.");
+
+        _tokenIdCounter.increment();
+        uint256 newItemId = _tokenIdCounter.current();
+        _safeMint(msg.sender, newItemId);
+        _setTokenURI(newItemId, specialNftHash);            
+
+        mintedSpecialUsers[msg.sender] = true;
+        return newItemId;           
+    }
+
+    // mint diamond for Hodlers
+    function claimHodler() public returns (uint256) {
+        require(!HODLMintedUsers[msg.sender], "You already minted NFT.");
+        require(shitToken.Holdingtime(_msgSender()) > 0, "You dont have enough tokens.");
+        require(shitToken.balanceOf(msg.sender) > minRequiredTokenHodl && block.timestamp >= shitToken.Holdingtime(_msgSender()) + minHODLTimeperiod, "You did not hold coins for 690 days.");
+
+        _tokenIdCounter.increment();
+        uint256 newItemId = _tokenIdCounter.current();
+        _safeMint(msg.sender, newItemId);
+        _setTokenURI(newItemId, HODLerNftHash);            
+
+        HODLMintedUsers[msg.sender] = true;
+        return newItemId;  
+    }
+
+    function setSpecialMinterAddress(address _minter, bool _value) public onlyOwner {
+        specialNFTMinterAddresses[_minter] = _value;
+    }
+
+    function updateNFTHash(string memory _hash) public onlyOwner {
+        nftHash = _hash;
+    }
+
+    function updateSpecialNFTHash(string memory _hash) public onlyOwner {
+        specialNftHash = _hash;
+    }
+
+    function updateHODLNFTHash(string memory _hash) public onlyOwner {
+        HODLerNftHash = _hash;
     }
 
     function getCurrentNFTId() public view returns (uint256) {
       return _tokenIds.current();
     }
 
-    function updateTokenUri(string memory _tokenUriHash) public onlyOwner {
-      nftHash = _tokenUriHash;
+    function updateHODLTimePeriod(uint256 _time) public onlyOwner {
+        minHODLTimeperiod = _time;
     }
 
     function updateMinRequiredShitCoins(uint256 _requiredCoins) public onlyOwner {
         minRequiredToken = _requiredCoins;
-        minRequiredToken = minRequiredToken.mul(10 ** shitToken.decimals());
+    }
+
+    function updateMinRequiredHodlShitCoins(uint256 _requiredCoins) public onlyOwner {
+        minRequiredTokenHodl = _requiredCoins;
+    }
+
+    function updateShitTokenAddress(address _tokenAddress) public onlyOwner {
+        shitToken = IBEP20(_tokenAddress);
     }
 
     // The following functions are overrides required by Solidity.
-
     function _beforeTokenTransfer(address from, address to, uint256 tokenId)
         internal
         override(ERC721, ERC721Enumerable)
