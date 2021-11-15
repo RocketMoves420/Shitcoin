@@ -13,7 +13,7 @@ Discord: https://discord.gg/zgfRMYEp27
 Twitter: https://twitter.com/Shitcoin69    
 Reddit: https://www.reddit.com/r/shitcoin69/  
 Medium: https://shitcoin69.medium.com/?p=8a4ec5a83cb8    
-Contract: https://bscscan.com/address/0xLaunching00000000000000000000000  
+Contract: https://bscscan.com/token/0x3a5fca89e670612b5174cea72e60af70a91bbe63  
 Trade: https://pancakeswap.finance/swap    
 
 </div>
