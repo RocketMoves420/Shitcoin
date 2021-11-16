@@ -2,6 +2,7 @@
 Shᓰtcoin
 <br/><br/>
 Shitcoin is an innovative new kind of money  
+      
 <img src="https://i.ibb.co/pj8NBBq/200by200-copy.png">  
 </h1>
 <div align="center">  
