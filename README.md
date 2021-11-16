@@ -1,10 +1,10 @@
 <h1 align="center">
 Shᓰtcoin
 <br/><br/>
-<img src="https://i.ibb.co/S3zBHmJ/Shit-coinn-logo-amazing.png" alt="Shitcoin" width="300"/>  
-</h1>  
+<img src="https://i.ibb.co/S3zBHmJ/Shit-coinn-logo-amazing.png" alt="Shitcoin" width="300"/>
+</h1>
 <div align="center">  
-
+</div>
 Links  
 Website: https://shitcoin69.com  
 Telegram: https://t.me/Shitcoin69  
@@ -16,8 +16,6 @@ Contract: https://bscscan.com/token/0x3a5fca89e670612b5174cea72e60af70a91bbe63
 Litepaper: https://drive.google.com/file/d/1pBvfl9EwQ3zhJ9Fu-3Kj504lh0cWGHXP/view  
 Audit: https://drive.google.com/file/d/1ljxhmat0P7ngN_Ba4hcLE4vxtd043vPC/view?usp=sharing  
 Trade: https://pancakeswap.finance/swap    
-
-</div>
 
 
 -------
