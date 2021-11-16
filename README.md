@@ -55,4 +55,4 @@ You can obtain coins from Defi cryptocurrency exchanges such as Pancakeswap ahea
     
 SHᓰTCOIN™ Mathematics and Engineering Labs, Intergalactic  
      
-</div align="center">  
+</div align="center">    
