@@ -1,6 +1,5 @@
 <h1 align="center">
 Shᓰtcoin
-Shitcoin is an innovative new kind of money.  
 <br/><br/>
 <img src="https://i.ibb.co/pj8NBBq/200by200-copy.png">  
 </h1>
