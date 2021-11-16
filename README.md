@@ -8,7 +8,7 @@ Shᓰtcoin
 Links  
 Website: https://shitcoin69.com  
 Telegram: https://t.me/Shitcoin69 
-Contract: https://linktr.ee/Shitcoin69   
+Contract: https://linktr.ee/Shitcoin69  
 Discord: https://discord.gg/zgfRMYEp27  
 Twitter: https://twitter.com/Shitcoin69    
 Reddit: https://www.reddit.com/r/shitcoin69/  
