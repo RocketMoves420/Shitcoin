@@ -1,9 +1,9 @@
 <h1 align="center">
 Shᓰtcoin
 <br/><br/>
-<img src="https://i.ibb.co/S3zBHmJ/Shit-coinn-logo-amazing.png" alt="Shitcoin" width="300"/>
-</h1>
-<div align="center">
+<img src="https://i.ibb.co/S3zBHmJ/Shit-coinn-logo-amazing.png" alt="Shitcoin" width="300"/>  
+</h1>  
+<div align="center">  
 
 Links  
 Website: https://shitcoin69.com  
