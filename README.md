@@ -1,7 +1,7 @@
 <h1 align="center">
 Shᓰtcoin
 <br/><br/>
-<img src="https://i.ibb.co/S3zBHmJ/Shit-coinn-logo-amazing.png" alt="Shitcoin" width="300"/>
+![](https://i.ibb.co/S3zBHmJ/Shit-coinn-logo-amazing.png =250x250)
 </h1>
 <div align="center">  
 
@@ -55,4 +55,4 @@ You can obtain coins from Defi cryptocurrency exchanges such as Pancakeswap ahea
     
 SHᓰTCOIN™ Mathematics and Engineering Labs, Intergalactic  
      
-</div align="center">    
+</div align="center">     
