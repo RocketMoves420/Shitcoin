@@ -47,13 +47,13 @@ interface IBEP20 {
     function balanceOf(address account) external view returns (uint256);
 
     function transfer(address recipient, uint256 amount)
-    external
-    returns (bool);
+        external
+        returns (bool);
 
     function allowance(address owner, address spender)
-    external
-    view
-    returns (uint256);
+        external
+        view
+        returns (uint256);
 
     function approve(address spender, uint256 amount) external returns (bool);
 
@@ -73,15 +73,12 @@ interface IBEP20 {
 }
 
 interface IPancakeFactory {
-
     function createPair(address tokenA, address tokenB)
-    external
-    returns (address pair);
-
+        external
+        returns (address pair);
 }
 
 interface IPancakeRouter01 {
-
     function factory() external pure returns (address);
 
     function WETH() external pure returns (address);
@@ -94,18 +91,16 @@ interface IPancakeRouter01 {
         address to,
         uint256 deadline
     )
-    external
-    payable
-    returns (
-        uint256 amountToken,
-        uint256 amountETH,
-        uint256 liquidity
-    );
-
+        external
+        payable
+        returns (
+            uint256 amountToken,
+            uint256 amountETH,
+            uint256 liquidity
+        );
 }
 
 interface IPancakeRouter02 is IPancakeRouter01 {
-
     function swapExactTokensForETHSupportingFeeOnTransferTokens(
         uint256 amountIn,
         uint256 amountOutMin,
@@ -154,9 +149,9 @@ contract Ownable is Context {
     }
 
     function transferOwnership(address payable newOwner)
-    public
-    virtual
-    onlyOwner
+        public
+        virtual
+        onlyOwner
     {
         require(
             newOwner != address(0),
@@ -165,11 +160,9 @@ contract Ownable is Context {
         emit OwnershipTransferred(_owner, newOwner);
         _owner = newOwner;
     }
-
 }
 
 contract ShitCoin is Context, IBEP20, Ownable {
-
     using SafeMath for uint256;
 
     mapping(address => uint256) private _rOwned;
@@ -282,27 +275,27 @@ contract ShitCoin is Context, IBEP20, Ownable {
     }
 
     function transfer(address recipient, uint256 amount)
-    public
-    override
-    returns (bool)
+        public
+        override
+        returns (bool)
     {
         _transfer(_msgSender(), recipient, amount);
         return true;
     }
 
     function allowance(address owner, address spender)
-    public
-    view
-    override
-    returns (uint256)
+        public
+        view
+        override
+        returns (uint256)
     {
         return _allowances[owner][spender];
     }
 
     function approve(address spender, uint256 amount)
-    public
-    override
-    returns (bool)
+        public
+        override
+        returns (bool)
     {
         _approve(_msgSender(), spender, amount);
         return true;
@@ -326,9 +319,9 @@ contract ShitCoin is Context, IBEP20, Ownable {
     }
 
     function increaseAllowance(address spender, uint256 addedValue)
-    public
-    virtual
-    returns (bool)
+        public
+        virtual
+        returns (bool)
     {
         _approve(
             _msgSender(),
@@ -339,9 +332,9 @@ contract ShitCoin is Context, IBEP20, Ownable {
     }
 
     function decreaseAllowance(address spender, uint256 subtractedValue)
-    public
-    virtual
-    returns (bool)
+        public
+        virtual
+        returns (bool)
     {
         _approve(
             _msgSender(),
@@ -399,9 +392,9 @@ contract ShitCoin is Context, IBEP20, Ownable {
     }
 
     function reflectionFromToken(uint256 tAmount, bool deductTransferFee)
-    public
-    view
-    returns (uint256)
+        public
+        view
+        returns (uint256)
     {
         require(tAmount <= _tTotal, "Amount must be less than supply");
         if (!deductTransferFee) {
@@ -417,9 +410,9 @@ contract ShitCoin is Context, IBEP20, Ownable {
     }
 
     function tokenFromReflection(uint256 rAmount)
-    public
-    view
-    returns (uint256)
+        public
+        view
+        returns (uint256)
     {
         require(
             rAmount <= _rTotal,
@@ -482,8 +475,8 @@ contract ShitCoin is Context, IBEP20, Ownable {
     }
 
     function setExcludeFromMaxTx(address _address, bool value)
-    public
-    onlyOwner
+        public
+        onlyOwner
     {
         _isExcludedFromMaxTx[_address] = value;
     }
@@ -517,8 +510,8 @@ contract ShitCoin is Context, IBEP20, Ownable {
     }
 
     function setBuyBackWallet(address payable _buyBackWallet)
-    external
-    onlyOwner
+        external
+        onlyOwner
     {
         buyBackWallet = _buyBackWallet;
     }
@@ -528,8 +521,8 @@ contract ShitCoin is Context, IBEP20, Ownable {
     }
 
     function setPancakeRouter(IPancakeRouter02 _pancakeRouter, address _pair)
-    external
-    onlyOwner
+        external
+        onlyOwner
     {
         pancakeRouter = _pancakeRouter;
         pancakePair = _pair;
@@ -540,8 +533,8 @@ contract ShitCoin is Context, IBEP20, Ownable {
 
     function totalFeePerTx(uint256 tAmount) internal view returns (uint256) {
         uint256 percentage = tAmount
-        .mul(_taxFee.add(_liquidityFee).add(_buyBackFee).add(_devFee))
-        .div(1e3);
+            .mul(_taxFee.add(_liquidityFee).add(_buyBackFee).add(_devFee))
+            .div(1e3);
         return percentage;
     }
 
@@ -642,16 +635,17 @@ contract ShitCoin is Context, IBEP20, Ownable {
         require(from != address(0), "STC: transfer from the zero address");
         require(to != address(0), "STC: transfer to the zero address");
         require(amount > 0, "STC: Transfer amount must be greater than zero");
-        require(
-            balanceOf(from) > amount,
-            "STC: Balance must be greater than Transfer amount"
-        );
 
         if (
             _isExcludedFromMaxTx[from] == false &&
             _isExcludedFromMaxTx[to] == false // by default false
         ) {
             require(amount <= _maxTxAmount, "amount exceed max limit");
+
+            require(
+                balanceOf(from) > amount,
+                "STC: Balance must be greater than Transfer amount"
+            );
 
             if (!_tradingOpen) {
                 require(
@@ -885,7 +879,7 @@ library Utils {
     using SafeMath for uint256;
 
     function swapTokensForEth(address routerAddress, uint256 tokenAmount)
-    internal
+        internal
     {
         IPancakeRouter02 pancakeRouter = IPancakeRouter02(routerAddress);
 
