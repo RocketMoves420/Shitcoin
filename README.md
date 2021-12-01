@@ -27,7 +27,7 @@ It’s a fun way to get people into crypto, with the vision of one day helping t
 -------
 ### How does this coin grow? 🧐
 
-The success of this coin is heavily dependent on degenerates to push it to new heights.  
+The success of this coin is heavily dependent on degenerates to push it to new heights, and its tokenomics which makes it worthwhile to buy even at $69,000.   
 
 Buy  
 |  Supply  |   Liqudiity    |      Staking     |       Development     |  Transfer / Recieve  |  
