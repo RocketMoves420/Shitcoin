@@ -40,8 +40,6 @@ Sell: 9%
 💎 [Diamond hand Shitcoiners who stake 69 shitcoins or more 10 times successfully, receives a special edition Ultra Rare Non-Fungible Turd](https://i.ibb.co/fksdXpm/Degenerosity-NFT.png)  
 🙊 [2 Degenerous Shitcoiners who kick start Shitcoin by donating 0.5 BNB each receives a limited edition Ultra Rare Holographic Non-Fungible Turd](https://i.ibb.co/kHRvjm3/Diamond-hand-2.png)  
 
-There are NO team tokens and NO ridiculously high taxes! Every single penny of tax collected gets pumped straight back into the project.  
-
 
 -------
 ## How do I get coins? 😆 
