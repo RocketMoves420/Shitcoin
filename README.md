@@ -33,6 +33,7 @@ Buy
 |  Supply  |   Liqudiity    |      Staking     |       Development     |  Transfer / Recieve  |  
 |  ------- |    ------      |      ------      |         ------        |        ------        |  
 |   21m    |   4% per Tx    |     1% per Tx    |        1% per Tx      |      0% per Tx       |  
+  
 Sell  
 |  Supply  |   Liqudiity    |      Staking     |       Development     |  Transfer / Recieve  |  
 |  ------- |    ------      |      ------      |         ------        |        ------        |  
