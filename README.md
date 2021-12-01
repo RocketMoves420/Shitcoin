@@ -28,9 +28,16 @@ It’s a fun way to get people into crypto, with the vision of one day helping t
 ### How does this coin grow? 🧐
 
 The success of this coin is heavily dependent on degenerates to push it to new heights, and its tokenomics which makes it a deflationary asset.  
-|  Supply  |   Liqudiity    |      Staking     |         Development     |  Transfer / Recieve  |  
-|  ------- |    ------      |      ------      |           ------        |        ------        |  
-|   21m    |  4-6% per Tx   |    1-2% per Tx   |          1% per Tx      |      0% per Tx       |  
+
+Buy  
+|  Supply  |   Liqudiity    |      Staking     |       Development     |  Transfer / Recieve  |  
+|  ------- |    ------      |      ------      |         ------        |        ------        |  
+|   21m    |   4% per Tx    |     1% per Tx    |        1% per Tx      |      0% per Tx       |  
+Sell  
+|  Supply  |   Liqudiity    |      Staking     |       Development     |  Transfer / Recieve  |  
+|  ------- |    ------      |      ------      |         ------        |        ------        |  
+|   21m    |   6% per Tx    |     2% per Tx    |        1% per Tx      |      0% per Tx       |  
+
    
 Slippage  
 Buy: 6%  
