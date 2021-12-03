@@ -14,8 +14,8 @@ Twitter: https://twitter.com/Shitcoin69
 Reddit: https://www.reddit.com/r/shitcoin69/  
 Medium: https://shitcoin69.medium.com/?p=8a4ec5a83cb8     
 Doxx: https://www.linkedin.com/in/jacobwmartin/www.linkedin.com/in/jacobwmartin  
-Litepaper: https://drive.google.com/file/d/1pBvfl9EwQ3zhJ9Fu-3Kj504lh0cWGHXP/view  
-Audit: https://drive.google.com/file/d/1ljxhmat0P7ngN_Ba4hcLE4vxtd043vPC/view?usp=sharing  
+Toiletpaper: https://drive.google.com/file/d/1pBvfl9EwQ3zhJ9Fu-3Kj504lh0cWGHXP/view  
+Cerkrap: https://drive.google.com/file/d/1ljxhmat0P7ngN_Ba4hcLE4vxtd043vPC/view?usp=sharing  
 
 </div>  
 
