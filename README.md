@@ -11,10 +11,10 @@ Telegram: https://t.me/Shitcoin69
 Contract: https://linktr.ee/Shitcoin69  
 Discord: https://discord.gg/zgfRMYEp27  
 Twitter: https://twitter.com/Shitcoin69    
-Reddit: https://www.reddit.com/r/shitcoin69/  
-Medium: https://shitcoin69.medium.com/?p=8a4ec5a83cb8     
+Reddit: https://www.reddit.com/r/shitcoin69/    
+Toiletpaper: https://shitcoin69.com/Whitepaper.pdf  
+Audit: https://github.com/coinscope-co/audits/blob/main/1-stc/audit.pdf  
 Doxx: https://www.linkedin.com/in/jacobwmartin/www.linkedin.com/in/jacobwmartin  
-Toiletpaper: https://drive.google.com/file/d/1pBvfl9EwQ3zhJ9Fu-3Kj504lh0cWGHXP/view  
 Cerkrap: https://drive.google.com/file/d/1ljxhmat0P7ngN_Ba4hcLE4vxtd043vPC/view?usp=sharing  
 
 </div>  
@@ -41,18 +41,18 @@ Sell
 
    
 Slippage  
-Buy: 6%  
-Sell: 9%  
+Buy: 6%, add 0.5 - 3%  
+Sell: 9%, add 0.5 - 3%    
 
-💩 [Shitcoiners who hold 69 shitcoins or more, receives a Rare Non-Fungible Turd](https://i.ibb.co/rFgRVWB/Thanks-for-buying-Shitcoin.png)    
-💎 [Diamond hand Shitcoiners who stake 69 shitcoins or more 10 times successfully, receives a special edition Ultra Rare Non-Fungible Turd](https://i.ibb.co/fksdXpm/Degenerosity-NFT.png)  
+💩 [Shitcoiners who hold 69 shitcoins or more receives a Rare Non-Fungible Turd](https://i.ibb.co/rFgRVWB/Thanks-for-buying-Shitcoin.png)    
+💎 [Diamond hand Shitcoiners who stake 690 shitcoins or more atleast once receives a special edition Ultra Rare Non-Fungible Turd](https://i.ibb.co/fksdXpm/Degenerosity-NFT.png)  
 🙊 [2 Degenerous Shitcoiners who kick start Shitcoin by donating 0.5 BNB each receives a limited edition Ultra Rare Holographic Non-Fungible Turd](https://i.ibb.co/kHRvjm3/Diamond-hand-2.png)  
 
 
 -------
 ## How do I get coins? 😆 
 
-You can obtain coins from Defi cryptocurrency exchanges such as Pancakeswap ahead of our major exchange listings.
+You can obtain coins from Defi cryptocurrency exchanges such as Pancakeswap or Flooz ahead of our major exchange listings.
 
 
 <div align="center">  
