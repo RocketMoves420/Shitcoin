@@ -6,7 +6,7 @@ one day helping those who are battling against a shitty time in in life with inc
 * Shitcoiners who hold shitcoins receive a NFT (Non-Fungible Turd)
 
 * Unlimited Available : Just be a shitcoiner with 69 shitcoins: https://i.ibb.co/rFgRVWB/Thanks-for-buying-Shitcoin.png
-* Unlimited Available: Diamond hand 69,000 or more shitcoins for 690 days: https://i.ibb.co/fksdXpm/Degenerosity-NFT.png
+* Unlimited Available: Diamond hand 690 or more shitcoins for 69 days: https://i.ibb.co/fksdXpm/Degenerosity-NFT.png
 * 2 Available: Donate 0.5 BNB towards the startup cost: https://i.ibb.co/kHRvjm3/Diamond-hand-2.png
 
 
@@ -1528,6 +1528,11 @@ interface IBEP20 {
   function Holdingtime(address _owner) external returns (uint256);
 }
 
+interface STCStaking {
+
+    function diamondStaker(address _user) external view returns (bool);
+}
+
 /**
  * The ShitNFT contract does this and that...
  */
@@ -1539,14 +1544,13 @@ contract ShitNFT is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     Counters.Counter private _tokenIds;
 
     IBEP20 public shitToken;
+    STCStaking public staking;
 
     string nftHash = "QmPJZ4E8WQHj6EUinbjpkgY77RLSwgxu3A5kv8oi5uRcty";
     string specialNftHash = "QmToX7RWiaromACinZx59WvkjjBkAVe6yJMcg5XAgmG3Qv";
     string HODLerNftHash = "QmazNtsB7QLEHyrwp6TSahRDhEDZ1bC7cvwkAWEY4avP82";
 
     uint256 minRequiredToken = 69 * 1e8;
-    uint256 minRequiredTokenHodl = 69000 * 1e8;
-    uint256 minHODLTimeperiod = 690 days;
 
     mapping (address => bool) public mintedUsers;
     mapping (address => bool) public mintedSpecialUsers;
@@ -1593,8 +1597,7 @@ contract ShitNFT is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     // mint diamond for Hodlers
     function claimHodler() public returns (uint256) {
         require(!HODLMintedUsers[msg.sender], "You already minted NFT.");
-        require(shitToken.Holdingtime(_msgSender()) > 0, "You dont have enough tokens.");
-        require(shitToken.balanceOf(msg.sender) > minRequiredTokenHodl && block.timestamp >= shitToken.Holdingtime(_msgSender()) + minHODLTimeperiod, "You did not hold coins for 690 days.");
+        require(staking.diamondStaker(msg.sender), "You did not stake 690 coins.");
 
         _tokenIdCounter.increment();
         uint256 newItemId = _tokenIdCounter.current();
@@ -1625,20 +1628,13 @@ contract ShitNFT is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
       return _tokenIds.current();
     }
 
-    function updateHODLTimePeriod(uint256 _time) public onlyOwner {
-        minHODLTimeperiod = _time;
-    }
-
     function updateMinRequiredShitCoins(uint256 _requiredCoins) public onlyOwner {
         minRequiredToken = _requiredCoins;
     }
 
-    function updateMinRequiredHodlShitCoins(uint256 _requiredCoins) public onlyOwner {
-        minRequiredTokenHodl = _requiredCoins;
-    }
-
-    function updateShitTokenAddress(address _tokenAddress) public onlyOwner {
+    function updateAddresses(address _tokenAddress, address _stakingAddress) public onlyOwner {
         shitToken = IBEP20(_tokenAddress);
+        staking = STCStaking(_stakingAddress);
     }
 
     // The following functions are overrides required by Solidity.
