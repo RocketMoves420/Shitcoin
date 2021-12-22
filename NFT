@@ -1,24 +1,5 @@
-CONTRACT: 
+CONTRACT: 0xf43968c901f560718be3f667142be7f3c4d6d000
 
-/*
-
-Name: Non-Fungible Turd
-Ticker: NFT
-Supply: Varies
-ID: Varies
-
-Shitcoiners who hold shitcoins receive a NFT (Non-Fungible Turd)
-* Burn 69 ← +1% staking award bonus. (Unlimited available)
-* Stake 6,690 ← 50% timee reduction. (690 available)
-* Kickstart Development ← N/A, Novelty. (2 available)
-
-Please read through our website to find out more, or join the Discord/Telegram to ask any questions you may have.
-* Website: https://shitcoin69.com
-
-Sincerely,
-Shit-toshi
-
-*/
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.2;
