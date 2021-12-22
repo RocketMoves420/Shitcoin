@@ -2,17 +2,18 @@ CONTRACT: https://bscscan.com/token/0x33d6f6ae147994cf4fea431a20051a3ca1efcf33
 
 /*
 
-Shitcoiners who hold shitcoins receive a NFT (Non-Fungible Turd)
+Name: Non-Fungible Turd
+Ticker: NFT
+Supply: Varies
+ID: Varies
 
-* Unlimited Available : Just be a shitcoiner with 69 shitcoins: 
-https://i.ibb.co/rFgRVWB/Thanks-for-buying-Shitcoin.png
-* Unlimited Available: Diamond hand stake more than 690 coins: 
-https://i.ibb.co/fksdXpm/Degenerosity-NFT.png
-* 2 Available: Donate 0.5 BNB towards the startup cost: 
-https://i.ibb.co/kHRvjm3/Diamond-hand-2.png
+Shitcoiners who hold shitcoins receive a NFT (Non-Fungible Turd)
+* Burn 69 ← +1% staking award bonus. (Unlimited available)
+* Stake 6,690 ← 50% timee reduction. (690 available)
+* Kickstart Development ← N/A, Novelty. (2 available)
 
 Please read through our website to find out more, or join the Discord/Telegram to ask any questions you may have.
-* Website: https://shitcoin69.com/
+* Website: https://shitcoin69.com
 
 Sincerely,
 Shit-toshi
@@ -1551,6 +1552,8 @@ contract ShitNFT is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     string HODLerNftHash = "QmazNtsB7QLEHyrwp6TSahRDhEDZ1bC7cvwkAWEY4avP82";
 
     uint256 minRequiredToken = 69 * 1e8;
+    uint256 public maxHodlNfts;
+    uint256 public totalMintedHodlNfts;
 
     mapping (address => bool) public mintedUsers;
     mapping (address => bool) public mintedSpecialUsers;
@@ -1558,6 +1561,7 @@ contract ShitNFT is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     mapping (address => bool) public specialNFTMinterAddresses;
 
     constructor() ERC721("Non-Fungible Turd", "NFT") {
+        maxHodlNfts = 690;
         specialNFTMinterAddresses[address(0xF15c0CA2737EFF59fE350a8E682D8099e01aE34C)] = true;
         specialNFTMinterAddresses[address(0x62b8fC4ca6768626d54583539624e24D64594ed6)] = true;
     }
@@ -1596,6 +1600,7 @@ contract ShitNFT is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
 
     // mint diamond for Hodlers
     function claimHodler() public returns (uint256) {
+        require(totalMintedHodlNfts <= maxHodlNfts, "Mint Limit Reached");
         require(!HODLMintedUsers[msg.sender], "You already minted NFT.");
         require(staking.diamondStaker(msg.sender), "You did not stake 690 coins.");
 
@@ -1605,6 +1610,7 @@ contract ShitNFT is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
         _setTokenURI(newItemId, HODLerNftHash);            
 
         HODLMintedUsers[msg.sender] = true;
+        totalMintedHodlNfts++;
         return newItemId;  
     }
 
