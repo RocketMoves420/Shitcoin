@@ -15,7 +15,6 @@ Reddit: https://www.reddit.com/r/shitcoin69/
 Toiletpaper: https://shitcoin69.com/Whitepaper.pdf  
 Audit: https://github.com/coinscope-co/audits/blob/main/1-stc/audit.pdf  
 Doxx: https://www.linkedin.com/in/jacobwmartin/www.linkedin.com/in/jacobwmartin  
-Cerkrap: https://drive.google.com/file/d/1ljxhmat0P7ngN_Ba4hcLE4vxtd043vPC/view?usp=sharing  
 
 </div>  
 
