@@ -1,57 +1,63 @@
 <h1 align="center">
-Shᓰtcoin
+CryptoSyno
 <br/><br/>
-<img src="https://i.ibb.co/pj8NBBq/200by200-copy.png">  
+<img src="https://i.ibb.co/r3qSpxq/cryptosyno-crossed-transparent-1-min.png">  
 </h1>
 <div align="center">  
 
 Links  
-Website: https://shitcoin69.com  
-Telegram: https://t.me/Shitcoin69  
-Contract: https://linktr.ee/Shitcoin69  
-Discord: https://discord.gg/zgfRMYEp27  
-Twitter: https://twitter.com/Shitcoin69    
-Reddit: https://www.reddit.com/r/shitcoin69/    
-Toiletpaper: https://shitcoin69.com/Whitepaper.pdf  
-Audit: https://github.com/coinscope-co/audits/blob/main/1-stc/audit.pdf  
-Doxx: https://www.linkedin.com/in/jacobwmartin/www.linkedin.com/in/jacobwmartin  
+Website: https://cryptosyno.io/  
+Telegram: https://t.me/CryptoSyno   
+Discord: https://discord.gg/CryptoSyno  
+Twitter: https://twitter.com/CryptoSyno     
+Doxx: https://www.linkedin.com/in/jacobwmartin/www.linkedin.com/in/jacobwmartin   
 
 </div>  
 
 -------
-## Why does this coin exist? 😯
+## Welcome to CryptoSyno ♠
 
-It’s a fun way to get people into crypto, with the vision of one day helping those who are battling against a shitty time in life with incredible gains.  
+Whether it's meme-coins or utility-based projects you're after, CryptoSyno looks to develop the 
+primary go-to source for alternative cryptocurrency gambling. The whitepaper (including tokenomics) 
+is on our website.  
 
 -------
-### How does this coin grow? 🧐
+### Tokenomics 🧪👨🏻‍🔬
 
-The success of this coin is heavily dependent on degenerates to push it to new heights, and its tokenomics which makes it worthwhile to buy even at $69,000.   
+Buy
+- 1% Sent to burn address
 
-Buy  
-|  Supply  |   Liqudiity    |      Staking     |       Development     |  Transfer / Recieve  |  
-|  ------- |    ------      |      ------      |         ------        |        ------        |  
-|   21m    |   4% per Tx    |     1% per Tx    |        1% per Tx      |      0% per Tx       |  
-  
-Sell  
-|  Supply  |   Liqudiity    |      Staking     |       Development     |  Transfer / Recieve  |  
-|  ------- |    ------      |      ------      |         ------        |        ------        |  
-|   21m    |   6% per Tx    |     2% per Tx    |        1% per Tx      |      0% per Tx       |  
+Sell
+- 1% Reflections
+- 2% Sent to burn address
+- 2% Sent to slot machine reward pool
+
+Slot Machine Odds
+- House odds 0.1% - 10% of the prize pool is sent to the dead address.
+- Big win odds 0.1% - Win 10% of the prize pool.
+- Standard win odds 8% - Win 1% of the prize pool.
+- After 3 losses in a row, user is granted a 2x  odds increase. 
+- Users will keep getting extra odds increase for every lose if their lose streak is 3+. 
+- After winning any reward, probabilities will reset to normal.
+
+<img src="https://i.ibb.co/fHkfVbJ/IMAGE-2022-04-22-09-47-16.jpg" width="200" height="200">
+<img src="https://gcdnb.pbrd.co/images/YhSW6VG5jZvj.jpg?o=1" width="200" height="200">
+
+VIP STATUS
+- x1 $CSYN token sent to the dead address.
+- Grants personalized remote concierge service.
+- Exclusive access to upcoming games.
+- Exclusive access to upcoming tokens.
 
    
-Slippage  
-Buy: 6%, add 0.5 - 3%  
-Sell: 9%, add 0.5 - 3%    
-
-💩 [Shitcoiners who hold 69 shitcoins or more receives a Rare Non-Fungible Turd](https://i.ibb.co/rFgRVWB/Thanks-for-buying-Shitcoin.png)    
-💎 [Diamond hand Shitcoiners who stake 690 shitcoins or more atleast once receives a special edition Ultra Rare Non-Fungible Turd](https://i.ibb.co/fksdXpm/Degenerosity-NFT.png)  
-🙊 [2 Degenerous Shitcoiners who kick start Shitcoin by donating 0.5 BNB each receives a limited edition Ultra Rare Holographic Non-Fungible Turd](https://i.ibb.co/kHRvjm3/Diamond-hand-2.png)  
-
+### Slippage  
+Buy: 1.5%  
+Sell: 5.5%  
 
 -------
-## How do I get coins? 😆 
+## How do I get coins? 😳 
 
-You can obtain coins from Defi cryptocurrency exchanges such as Pancakeswap or Flooz ahead of our major exchange listings.
+You can obtain coins from Defi cryptocurrency swaps such as Pancakeswap ahead of our major exchange listings.  
 
 
 <div align="center">  
@@ -59,6 +65,6 @@ You can obtain coins from Defi cryptocurrency exchanges such as Pancakeswap or F
     
 *********************************************************  
     
-SHᓰTCOIN™ Mathematics and Engineering Labs, Intergalactic  
+CryptoSyno™ Mathematics and Engineering Labs  
      
 </div align="center">     
